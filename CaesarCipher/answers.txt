@@ -1,0 +1,117 @@
+Key: 1 . Looping through possible words.
+5 up
+Key: 2 . Looping through possible words.
+7 ku
+Key: 3 . Looping through possible words.
+Key: 4 . Looping through possible words.
+Key: 5 . Looping through possible words.
+Key: 6 . Looping through possible words.
+Key: 7 . Looping through possible words.
+Key: 8 . Looping through possible words.
+Key: 9 . Looping through possible words.
+Key: 10 . Looping through possible words.
+Key: 11 . Looping through possible words.
+Key: 12 . Looping through possible words.
+Key: 13 . Looping through possible words.
+Key: 14 . Looping through possible words.
+Key: 15 . Looping through possible words.
+Key: 16 . Looping through possible words.
+Key: 17 . Looping through possible words.
+Key: 18 . Looping through possible words.
+Key: 19 . Looping through possible words.
+Key: 20 . Looping through possible words.
+Key: 21 . Looping through possible words.
+Key: 22 . Looping through possible words.
+Key: 23 . Looping through possible words.
+Key: 24 . Looping through possible words.
+Key: 25 . Looping through possible words.
+Key: 26 . Looping through possible words.
+Key: 27 . Looping through possible words.
+Key: 28 . Looping through possible words.
+Key: 29 . Looping through possible words.
+Key: 30 . Looping through possible words.
+Key: 31 . Looping through possible words.
+Key: 32 . Looping through possible words.
+Key: 33 . Looping through possible words.
+Key: 34 . Looping through possible words.
+Key: 35 . Looping through possible words.
+Key: 36 . Looping through possible words.
+Key: 37 . Looping through possible words.
+Key: 38 . Looping through possible words.
+Key: 39 . Looping through possible words.
+Key: 40 . Looping through possible words.
+Key: 41 . Looping through possible words.
+Key: 42 . Looping through possible words.
+Key: 43 . Looping through possible words.
+Key: 44 . Looping through possible words.
+Key: 45 . Looping through possible words.
+Key: 46 . Looping through possible words.
+Key: 47 . Looping through possible words.
+Key: 48 . Looping through possible words.
+Key: 49 . Looping through possible words.
+Key: 50 . Looping through possible words.
+Key: 51 . Looping through possible words.
+Key: 52 . Looping through possible words.
+Key: 53 . Looping through possible words.
+Key: 54 . Looping through possible words.
+Key: 55 . Looping through possible words.
+Key: 56 . Looping through possible words.
+Key: 57 . Looping through possible words.
+Key: 58 . Looping through possible words.
+Key: 59 . Looping through possible words.
+Key: 60 . Looping through possible words.
+Key: 61 . Looping through possible words.
+6 FEAR
+6 FEAR
+4 HAVE
+7 IS
+9 ITSELF
+1 ONLY
+2 THING
+5 TO
+3 WE
+Key: 62 . Looping through possible words.
+5 UP
+Key: 63 . Looping through possible words.
+7 KU
+Key: 64 . Looping through possible words.
+Key: 65 . Looping through possible words.
+Key: 66 . Looping through possible words.
+Key: 67 . Looping through possible words.
+Key: 68 . Looping through possible words.
+Key: 69 . Looping through possible words.
+Key: 70 . Looping through possible words.
+Key: 71 . Looping through possible words.
+Key: 72 . Looping through possible words.
+4 SLaP
+Key: 73 . Looping through possible words.
+Key: 74 . Looping through possible words.
+Key: 75 . Looping through possible words.
+Key: 76 . Looping through possible words.
+Key: 77 . Looping through possible words.
+Key: 78 . Looping through possible words.
+Key: 79 . Looping through possible words.
+Key: 80 . Looping through possible words.
+Key: 81 . Looping through possible words.
+Key: 82 . Looping through possible words.
+Key: 83 . Looping through possible words.
+Key: 84 . Looping through possible words.
+Key: 85 . Looping through possible words.
+Key: 86 . Looping through possible words.
+Key: 87 . Looping through possible words.
+Key: 88 . Looping through possible words.
+Key: 89 . Looping through possible words.
+Key: 90 . Looping through possible words.
+Key: 91 . Looping through possible words.
+Key: 92 . Looping through possible words.
+Key: 93 . Looping through possible words.
+6 fear
+6 fear
+4 have
+7 is
+9 itself
+1 only
+0 The
+2 thing
+5 to
+3 we
